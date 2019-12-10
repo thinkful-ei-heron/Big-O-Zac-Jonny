@@ -13,3 +13,17 @@
 11)If you are given 5 disks, how do the rods look like after 7 recursive calls?
 How many moves are needed to complete the puzzle with 3 disks? with 4 disks? with 5 disks?
 Exponential - moves corrispond to the number of disks. 
+13-1) Linear
+13-2) Polynomial
+13-3) Linear
+13-4) Linear
+13-5) Linear
+13-6) Expontential
+13-7) Linear
+14-1) Linear 
+14-2) Linear
+14-3) Constant
+14-4) Linear
+14-5) Constant
+14-6) Linear
+14-7) Linear
