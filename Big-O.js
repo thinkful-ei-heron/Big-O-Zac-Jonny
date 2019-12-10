@@ -7,7 +7,6 @@ function TOH(disc,A,B,C, count){
     }
     return count[0];
 }
-''+''+''
 //console.log(TOH(3,'A','B','C',[0]));
 //console.log(TOH(4,'A','B','C',[0]));
 console.log(TOH(5,'A','B','C',[0]));
